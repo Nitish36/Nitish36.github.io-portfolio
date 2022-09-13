@@ -14,7 +14,7 @@ body
 {
     width: 100%;
     height: 100vh;
-    background-image: url('deer.jpg');
+    background-image: url('deer2.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -88,7 +88,7 @@ nav ul li a:hover::after
 {
     padding: 80px 0;
     color: #ababab;
-    background-image: url('bishop.jpg');
+    background-image: url('black.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -167,7 +167,7 @@ nav ul li a:hover::after
 #portfolio
 {
     padding:50px 0;
-    background-image: url('ground.jpg');
+    background-image: url('black.jpg');
     background-size: cover;
     background-position: center;
 
@@ -254,7 +254,7 @@ nav ul li a:hover::after
 }
 #contact
 {
-    background-image: url('sea.jpg');
+    background-image: url('black.jpg');
     background-size: cover;
     background-position: center;
 }
